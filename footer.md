@@ -1,1 +1,1 @@
-[markdown-pages.js](.)
+footer[markdown-pages.js](.)
